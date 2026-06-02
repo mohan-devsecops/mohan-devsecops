@@ -21,16 +21,6 @@
 
 ## Tech Stack
 
-| Category | Skills |
-|---|---|
-| Cloud Platforms | Oracle Cloud Infrastructure, AWS, Google Cloud, Microsoft Azure |
-| Infrastructure as Code | Terraform |
-| Containers and Orchestration | Docker, Podman, Kubernetes |
-| CI/CD and Automation | Jenkins, GitHub Actions, Bash scripting |
-| Operating Systems | Oracle Linux, Red Hat Linux, CentOS, Linux, Windows Server |
-| Middleware | Oracle WebLogic, IBM WebSphere, Apache Tomcat, Apache HTTP Server, JBoss EAP, WildFly, GlassFish |
-| SRE and Operations | Incident management, production support, troubleshooting, reliability engineering, observability |
-
 ### Cloud Platforms
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
