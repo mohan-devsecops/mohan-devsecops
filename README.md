@@ -43,10 +43,20 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Operating Systems and Middleware
+### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Middleware
+
 ![Oracle WebLogic](https://img.shields.io/badge/Oracle%20WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IBM WebSphere](https://img.shields.io/badge/IBM%20WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Apache HTTP Server](https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![JBoss EAP](https://img.shields.io/badge/JBoss%20EAP-000000?style=for-the-badge&logo=redhat&logoColor=white)
+![WildFly](https://img.shields.io/badge/WildFly-FF6600?style=for-the-badge&logo=wildfly&logoColor=white)
+![GlassFish](https://img.shields.io/badge/GlassFish-3B82F6?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
