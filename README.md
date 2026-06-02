@@ -45,6 +45,9 @@
 
 ### Operating Systems
 
+![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Red Hat Linux](https://img.shields.io/badge/Red%20Hat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
